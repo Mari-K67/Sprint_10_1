@@ -1,6 +1,6 @@
 # Sprint_10
 UI testing, applying Page Object Model, Allure report.  
-Task: write auto-tests for the educational service ["Yandex.Routes"](https://qa-routes.education-services.ru).  
+Task: write auto-tests for the educational service [«Яндекс.Маршруты»](https://qa-routes.education-services.ru).  
 Imagine that a manual tester handed you scenarios. They need to be covered with auto-tests.
 
 ## 1. Preparation
